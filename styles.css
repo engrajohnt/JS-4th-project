@@ -1,0 +1,12 @@
+body {
+    background-color: #e28b09;
+}
+
+.card {
+    max-width: 500px;
+    margin: auto;
+}
+
+#weatherInfo, #countryInfo {
+    display: none;
+}
